@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">क्विज़ ऐप</string>
+
+    <string name="correct">सही</string>
+    <string name="incorrect">गलत</string>
+
+    <string name="t">हाँ</string>
+    <string name="f">नहीं</string>
+
+    <string name="result">परिणाम</string>
+    <string name="ignore">अनदेखा</string>
+    <string name="save">सहेजें</string>
+    <string name="ok">ठीक है</string>
+
+    <string name="your_score">आपका स्कोर %s में से %s है।</string>
+    <string name="correct_ans">आपके सही जवाब %s हैं %s प्रयासों में।</string>
+
+    <string name="reset">सहेजे गए परिणाम को रीसेट करें</string>
+    <string name="average">औसत प्राप्त करें</string>
+    <string name="num_of_ques">प्रश्नों की संख्या का चयन करें</string>
+
+    // Android Questions
+    //false
+    <string name="and_q1">एंड्रॉयड को Apple Inc. ने विकसित किया है।</string>
+    <string name="and_q2">एंड्रॉयड ऐप्स को केवल Google Play Store के माध्यम से ही स्थापित किया जा सकता है।</string>
+    <string name="and_q3">एंड्रॉयड ऐप्स को संशोधन किए बिना iOS डिवाइस पर चलाया जा सकता है।</string>
+    <string name="and_q4">एंड्रॉयड एकल-सूत्री अनुप्रयोगों का समर्थन करता है।</string>
+    //true
+    <string name="and_q5">Kotlin एंड्रॉयड विकास के लिए आधिकारिक प्रोग्रामिंग भाषा है।</string>
+    <string name="and_q6">एंड्रॉयड एक ओपन-सोर्स ऑपरेटिंग सिस्टम है।</string>
+    <string name="and_q7">एंड्रॉयड का मैस्कॉट "एंडी" है।</string>
+    <string name="and_q8">एंड्रॉयड संस्करणों का नाम प्रसिद्ध मिठाइयों के आधार पर है।</string>
+    <string name="and_q9">एंड्रॉयड विकास के लिए आधिकारिक IDE Android Studio है।</string>
+    <string name="and_q10">एंड्रॉयड ऐप्स को जावा प्रोग्रामिंग भाषा का उपयोग करके विकसित किया जा सकता है।</string>
+    // iOS Questions
+    //false
+    <string name="iOS_q1">iOS ऑपरेटिंग सिस्टम को Google ने विकसित किया है।</string>
+    <string name="iOS_q2">Jailbreaking iOS डिवाइस को कस्टमाइज़ और संशोधित करने का आधिकारिक तरीका है।</string>
+    <string name="iOS_q3">Siri एंड्रॉयड डिवाइस के लिए वर्चुअअल सहायक है।</string>
+    <string name="iOS_q4">iOS एक ऑपन-सोर्स ऑपरेटिंग सिस्टम है।</string>
+    <string name="iOS_q5">iOS ऐप्स को संशोधन किए बिना Android डिवाइस पर चलाया जा सकता है।</string>
+    <string name="iOS_q6">आईओएस एप्लिकेशन विकास के लिए Objective-C अब नहीं उपयोग किया जाता है।</string>
+    <string name="iOS_q7">iOS सभी एप्लिकेशन के लिए बहुकारी समर्थन करता है।</string>
+    //true
+    <string name="iOS_q8">Swift iOS विकास के लिए प्रमुख प्रोग्रामिंग भाषा है।</string>
+    <string name="iOS_q9">iOS ऐप्स को केवल App Store के माध्यम से ही स्थापित किया जा सकता है।</string>
+    <string name="iOS_q10">आईओएस विकास के लिए आधिकारिक IDE Xcode है।</string>
+
+</resources>

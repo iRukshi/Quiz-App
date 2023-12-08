@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+
+    <string name="t">True</string>
+    <string name="f">False</string>
+
+    <string name="result">Result</string>
+    <string name="ignore">Ignore</string>
+    <string name="save">Save</string>
+    <string name="ok">OK</string>
+
+    <string name="your_score">Your score is %s out of %s.</string>
+    <string name="correct_ans">Your correct answers are %s in %s attempt.</string>
+
+    <string name="reset">Reset the saved result</string>
+    <string name="average">Get the average</string>
+    <string name="num_of_ques">Select the number of Question</string>
+
+    // Android Questions
+    //false
+    <string name="and_q1">Android is developed by Apple Inc.</string>
+    <string name="and_q2">Android apps can only be installed through the Google Play Store.</string>
+    <string name="and_q3">Android apps can run on iOS devices without modification.</string>
+    <string name="and_q4">Android supports only single-threaded applications.</string>
+    //true
+    <string name="and_q5">Kotlin is the official programming language for Android development.</string>
+    <string name="and_q6">Android is an open-source operating system.</string>
+    <string name="and_q7">The Android mascot is named "Andy."</string>
+    <string name="and_q8">Android versions are named after popular desserts.</string>
+    <string name="and_q9">Android Studio is the official IDE for Android development.</string>
+    <string name="and_q10">Android apps can be developed using Java programming language.</string>
+    // iOS Questions
+    //false
+    <string name="iOS_q1">iOS is the operating system developed by Google.</string>
+    <string name="iOS_q2">Jailbreaking is the official way to customize and modify iOS devices.</string>
+    <string name="iOS_q3">Siri is the virtual assistant exclusive to Android devices.</string>
+    <string name="iOS_q4">iOS is an open-source operating system.</string>
+    <string name="iOS_q5">iOS apps can run on Android devices without modification.</string>
+    <string name="iOS_q6">Objective-C is no longer used for iOS app development.</string>
+    <string name="iOS_q7">iOS supports multitasking for all applications.</string>
+    //true
+    <string name="iOS_q8">Swift is the primary programming language for iOS development.</string>
+    <string name="iOS_q9">iOS apps can only be installed through the App Store.</string>
+    <string name="iOS_q10">Xcode is the official IDE for iOS development.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
+
+
